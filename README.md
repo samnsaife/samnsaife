@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&duration=4000&pause=750&color=FAF9F6&center=true&width=900&height=70&lines=Hi+%E2%9C%8C%F0%9F%8F%BB%2C+I'm+Sami+Noor+Saifi;Software+Engineer+%F0%9F%92%BB;Web+Developer+%F0%9F%95%B8%EF%B8%8F;Data+Analyst+%F0%9F%93%88;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&duration=4000&pause=750&color=FAF9F6&center=true&width=900&height=70&lines=Hi+👋+I'm+Sami+Noor+Saifi;Software+Engineer+%F0%9F%92%BB;Web+Developer+%F0%9F%95%B8%EF%B8%8F;Data+Analyst+%F0%9F%93%88;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 
